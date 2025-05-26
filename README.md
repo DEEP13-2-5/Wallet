@@ -4,7 +4,7 @@ A simple React-based Web3 wallet dashboard that connects to MetaMask, displays w
 
 ## 🚀 Live Deployment
 
-🌐 [Live Demo](https://your-vercel-or-netlify-link.com)
+🌐 https://wallet-alpha-ten.vercel.app/
 
 ---
 
